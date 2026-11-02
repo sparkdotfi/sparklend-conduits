@@ -84,3 +84,14 @@ To run the tests, do the following:
 ```
 forge test
 ```
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [MakerDAO SparkLendConduit](https://www.chainsecurity.com/security-audit/makerdao-sparklendconduit/) | 2023-10-30 |
+| Cantina | [sparklend-conduits](https://cantina.xyz/portfolio/71325ea5-1700-4520-a956-df63734fe4a6) | 2023-10-16 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
